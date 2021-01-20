@@ -23,7 +23,7 @@ Learner will be able to:
 
 ## Courses:
 
-### Introduction to operations management with Python
+### 1. Introduction to operations management with Python
 
 In this course will learn to recognise the most critical business metrics and distinguish them from the data you have. You will learn more about data-driven approach to business decisions making. Big companies and increasingly small businesses are utilising data to draw insights, define the directions and disrupt entire industries. You will learn more about their journeys while also building foundational skills in Python.
 
@@ -38,7 +38,7 @@ Learner will be able to:
 
 
 
-#### Importing financial data with Python
+### 2.  Importing financial data with Python
 
 
 
