@@ -55,7 +55,7 @@ Learner will be able to:
   1. Explain the approach to identify performance metrics and how they are different from financial metrics
   2. Demonstrate the steps to import data into a dataframe from a CSV file
   3. Analyse and compare metrics from different organisational functions (Marketing, IT, HR)
-  4. Clean up data using map(), filter() and reduce() functions
+  4. Clean up data using `map()`, `filter()` and `reduce()` functions
   5. Analyse and visualise complex numeric data using Python
 
 ### 4. Merging dataframes with pandas 
@@ -64,7 +64,7 @@ This is the existing [DataCamp course on merging dataframes](https://learn.datac
 
 ### 5. Visualising data in Python
 
-"A picture is worth a thousand words". Visualising your data makes the seemingly impossible task of eyeballing thousands of datapoints very straightforward. Data visualisation is essential to expose patterns, correlations and trends in your data and to draw meaningful insights. Use visualisation to tell your story, there is no better way to convey your message to even non-technical stakeholders, than using thoroughly designed visuals. In this course you will learn how to use the most popular tools for data visualisation using Python: Matplotlib and Seaborn. By the time you complete this course you will be able to confidently choose the right type of visualisation for your task, style and annonate it. 
+_"A picture is worth a thousand words"_. Visualising your data makes the seemingly impossible task of eyeballing thousands of datapoints very straightforward. Data visualisation is essential to expose patterns, correlations and trends in your data and to draw meaningful insights. Use visualisation to tell your story, there is no better way to convey your message to even non-technical stakeholders, than using thoroughly designed visuals. In this course you will learn how to use the most popular tools for data visualisation using Python: Matplotlib and Seaborn. By the time you complete this course you will be able to confidently choose the right type of visualisation for your task, style and annonate it. 
 
 #### Course learning objectives:
 Learner will be able to:
@@ -74,7 +74,7 @@ Learner will be able to:
   4. Use more complex visualisation techniques using subplots, pair plots in Seaborn and Matplotlib
 
 
-#### 6. Machine Learning with Tree-Based Models in Python
+### 6. Machine Learning with Tree-Based Models in Python
 This is the existing [DataCamp course on machine learning with Tree-based models](https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python) Which perfectly covers the foundations of building tree-based models. As the course already exists, I am not copying the existing description and objectives.
 
 ### 7. Case study: Building Project analytics and revenue prediction models in Python
