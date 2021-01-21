@@ -1,12 +1,18 @@
-# Case study: Building Project analytics and revenue prediction models in Python - Course outline
+# Case study: Building Project analytics and revenue prediction models in Python 
 
 ## 1. Exploring the data
 
-Lesson 1.1 - Introduction to the problem
+### Lesson 1.1 - Introduction to the problem
+Learning objective: Using the pre-imported sample datasets remind the student about the key types of business metrics. 
+Some functions and packages used: `pandas`, `numpy`
 
-Lesson 1.2 - Exploring the data
+### Lesson 1.2 - Exploring the data
+Learning objective: Introduce the student to the datasets. Clean up and merge the data. Using pandas aggregation and summary functions.
+Some functions and packages used: `pd.merge()`, `DataFrame.info`, `DataFrame.describe`, `map()` + lambda functions 
 
-Lesson 1.3 - Solution measurement
+### Lesson 1.3 - Defining the challenge
+Learning objective: Analyse and visualise the cleaned up data. Define the business challenge
+Some functions and packages used: `seaborn`, `matplotlib`
 
 ## 2. Introduction to regression models
 
