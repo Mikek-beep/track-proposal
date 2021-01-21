@@ -40,6 +40,6 @@ plt._____()
 ```
 ### Single choice test
 Based on the results, which feature affects the marketing project revenue the most?
-() Project lead
-() Marketing tool
-() Customer industry
+* Project lead
+* Marketing tool
+* Customer industry
