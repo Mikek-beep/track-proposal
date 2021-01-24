@@ -1,4 +1,3 @@
-# Case study: Building Project analytics and revenue prediction models in Python
 Track proposal for Core Curriculum Manager role
 
 ## Content of the repo:
